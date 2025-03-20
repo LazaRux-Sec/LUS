@@ -1,3 +1,0 @@
-# LazaRux URLs Scanner (LUS)
-
-## 
